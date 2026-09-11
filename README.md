@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:0369A1&height=190&section=header&text=Mohith%20Dharshan&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Building%20ideas%20into%20experiences%20%7C%20Learning%20in%20public&descAlignY=61&descSize=16" alt="Mohith Dharshan profile banner" />
+
 <div align="center">
 
-# Hey there, I'm Mohith 👋
+## Hey there, I'm Mohith 👋
 
 ### Builder • Learner • Curious mind
 
@@ -28,19 +30,36 @@
 </p>
 </details>
 
-## 🌟 About me
+## 🌟 A little about me
 
-I’m a developer who enjoys turning rough ideas into clean, practical experiences. I like learning by building, exploring new technologies, and sharing progress along the way.
+I’m a developer who enjoys turning rough ideas into clean, practical experiences. I learn by building, explore new technologies with intention, and enjoy sharing the journey along the way.
 
-- 🔭 Currently building and experimenting with new ideas
-- 🌱 Always sharpening my development skills
-- 💡 Interested in thoughtful products, automation, and creative problem-solving
-- 🤝 Open to collaboration, feedback, and interesting conversations
-- ⚡ Fun fact: the best projects usually start with a tiny “what if?”
+<table>
+<tr>
+<td width="50%">
+
+🔭 **Currently exploring**<br />
+New ideas, useful products, and better ways to build.
+
+🌱 **Always improving**<br />
+My development skills through hands-on projects.
+
+</td>
+<td width="50%">
+
+💡 **I care about**<br />
+Thoughtful design, automation, and creative problem-solving.
+
+🤝 **Open to**<br />
+Collaboration, feedback, and interesting conversations.
+
+</td>
+</tr>
+</table>
 
 > *“Stay curious. Keep building. Make it useful.”*
 
-## 🧰 Toolbox
+## 🧰 My toolbox
 
 <div align="center">
 
@@ -54,7 +73,7 @@ I’m a developer who enjoys turning rough ideas into clean, practical experienc
 
 </div>
 
-> Some badges are intentionally broad—this section is a quick snapshot, not a limit. I’m always adding to the toolbox.
+<p align="center"><i>A quick snapshot of the technologies I enjoy working with—this toolbox is always evolving.</i></p>
 
 ## 🚀 Featured projects
 
@@ -69,12 +88,27 @@ As the project shelf grows, this is the perfect place to spotlight the work I’
 ## 📊 GitHub at a glance
 
 <div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/📈%20GitHub%20Statistics-0F172A?style=for-the-badge" alt="GitHub Statistics" />
+  <img src="https://img.shields.io/badge/💻%20Most%20Used%20Languages-0369A1?style=for-the-badge" alt="Most Used Languages" />
+</p>
+
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohith2912&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mohith's GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith2912&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohith2912&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Mohith2912&theme=tokyonight&hide_border=true&ring=36BCF7&fire=F59E0B&currStreakLabel=36BCF7" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohith2912&theme=tokyo-night&hide_border=true&area=true&color=36BCF7&line=38BDF8&point=FFFFFF" alt="GitHub contribution activity graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mohith2912?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-View%20repositories-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
+  <a href="https://github.com/Mohith2912?tab=followers"><img src="https://img.shields.io/badge/Join%20the%20journey-Follow%20along-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Follow along" /></a>
 </p>
 
 <details>
