@@ -4,7 +4,7 @@
 
 ## Hey there, I'm Mohith 👋
 
-### Builder • Learner • Curious mind
+### Builder • Learner • Curious mind || Logic Developer
 
 <a href="https://github.com/Mohith2912">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+corner+of+GitHub!;Turning+ideas+into+useful+projects;Always+learning.+Always+building.;Let's+create+something+great+%F0%9F%9A%80" alt="Animated introduction" />
@@ -99,7 +99,7 @@ As the project shelf grows, this is the perfect place to spotlight the work I’
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohith2912&theme=tokyonight&hide_border=true&ring=36BCF7&fire=F59E0B&currStreakLabel=36BCF7" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mohith2912&theme=tokyonight&hide_border=true&ring=36BCF7&fire=F59E0B&currStreakLabel=36BCF7" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
