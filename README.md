@@ -103,7 +103,10 @@ As the project shelf grows, this is the perfect place to spotlight the work I’
 </p>
 
 <p align="center">
-  <img src="https://ghchart.xqsit94.in/dark:halloween/Mohith2912" alt="Mohith's dark GitHub contribution calendar with orange and yellow heatmap colors" />
+  <picture>
+    <source srcset="./assets/contribution-heatmap.svg" />
+    <img src="./assets/contribution-heatmap.svg" alt="Mohith's GitHub contribution calendar in dark orange, yellow, red, and dark red" />
+  </picture>
 </p>
 
 <p align="center">
