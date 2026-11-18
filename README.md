@@ -103,11 +103,11 @@ As the project shelf grows, this is the perfect place to spotlight the work I’
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/F97316/Mohith2912" alt="Mohith's GitHub contribution calendar in an orange heatmap" />
+  <img src="https://ghchart.xqsit94.in/dark:halloween/Mohith2912" alt="Mohith's dark GitHub contribution calendar with orange and yellow heatmap colors" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohith2912&bg_color=FFF7ED&title_color=7C2D12&text_color=9A3412&color=F97316&line=DC2626&point=FACC15&area=true&area_color=FDBA74&hide_border=true&custom_title=Mohith's%20Contribution%20Heatmap" alt="Warm red, orange, and yellow GitHub contribution heatmap" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohith2912&bg_color=0D1117&title_color=FACC15&text_color=FDBA74&color=F97316&line=DC2626&point=7F1D1D&area=true&area_color=EA580C&hide_border=true&custom_title=Mohith's%20Contribution%20Heatmap" alt="Dark red, orange, and yellow GitHub contribution activity heatmap" />
 </p>
 
 <p align="center">
