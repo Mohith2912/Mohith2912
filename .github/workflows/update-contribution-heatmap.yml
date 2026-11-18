@@ -23,8 +23,13 @@ jobs:
         run: |
           mkdir -p assets
           curl --fail --location --retry 3 \
-            "https://ghchart.xqsit94.in/dark:halloween/Mohith2912" \
-            --output assets/contribution-heatmap.svg
+            "https://github-contributions.vercel.app/api/v1/Mohith2912?y=last" \
+            --output assets/contribution-heatmap.json
+
+      - name: Generate warm dark heatmap
+        run: python scripts/generate_contribution_heatmap.py \
+          assets/contribution-heatmap.json \
+          assets/contribution-heatmap.svg
 
       - name: Commit heatmap update
         run: |
